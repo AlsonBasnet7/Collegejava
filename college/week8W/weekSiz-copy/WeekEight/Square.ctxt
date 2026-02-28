@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Square
+comment0.text=\n\ Write\ a\ description\ of\ class\ square\ here.\n\n\ @author\ Alson\ Basnet\n\ @version\ 4th\ Jan\n
+comment1.params=n
+comment1.target=int\ squareNumber(int)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

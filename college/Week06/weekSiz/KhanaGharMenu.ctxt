@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=KhanaGharMenu
+comment0.text=\n\ Menu\ of\ Khana\ Ghar\ in\ Dharan\ to\ track\ their\ daily\ meni\ items.\n\n\ @author\ Alson\ Basnet\n\ @version\ 21\ Dec\ 2025\n
+comment1.params=itemName\ price\ category\ isVegetarian\ isAvailable\ spiceLevel\ origin
+comment1.target=KhanaGharMenu(java.lang.String,\ double,\ java.lang.String,\ boolean,\ boolean,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ display()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

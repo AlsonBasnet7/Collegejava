@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ATM
+comment1.params=pin
+comment1.target=void\ setPIN(int)
+comment2.params=balance
+comment2.target=void\ SetBalance(int)
+comment3.params=
+comment3.target=int\ getPIN()
+comment4.params=
+comment4.target=int\ getBalance()
+comment5.params=
+comment5.target=double\ get()
+comment6.params=amount
+comment6.target=void\ deposit(double)
+comment7.params=withdraw\ pin
+comment7.target=void\ withdraw(double,\ int)
+numComments=8

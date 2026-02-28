@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TestCharacterCheck
+comment1.params=ch
+comment1.target=void\ checkVowel(char)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

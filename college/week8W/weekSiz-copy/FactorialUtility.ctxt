@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=FactorialUtility
+comment1.params=number
+comment1.target=void\ displayFactorial(int)
+numComments=2
